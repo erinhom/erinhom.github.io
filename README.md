@@ -3,3 +3,4 @@ My name is Erin Hom, welcome to my page! I'm a junior at Lehigh University study
 ![text](http://cdn.pcwallart.com/images/city-street-wallpaper-4.jpg)
 
 Undergraduate Enrollment at Lehigh University
+![text](https://github.com/erinhom/erinhom.github.io/blob/master/undergrad.png?raw=true)
