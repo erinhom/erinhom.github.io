@@ -13,3 +13,4 @@ This is data describing Lehigh University's 2016 undergraduate enrollment based 
 ### Princeton Review's Top 10 Party School Ranking
 Princeton Review announced its Top Party School Ranking for the 2017-2018 school year. Beginning with Tulane University at the top. Our very own Lehigh University was ranked 9.
 
+![text](https://github.com/erinhom/erinhom.github.io/blob/master/princeton.png?raw=true)
