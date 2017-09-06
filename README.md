@@ -15,6 +15,6 @@ Princeton Review announced its Top Party School Ranking for the 2017-2018 school
 
 ![text](https://github.com/erinhom/erinhom.github.io/blob/master/princeton.png?raw=true)
 
-###Timeline of John Mayer
+### Timeline of John Mayer
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1AuE_c3ye22gTgKsMxmTcn5NBa9-FOT3XNPIFgE3W0Yc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
