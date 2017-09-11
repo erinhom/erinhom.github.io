@@ -11,6 +11,6 @@ Princeton Review announced its Top Party School Ranking for the 2017-2018 school
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1AuE_c3ye22gTgKsMxmTcn5NBa9-FOT3XNPIFgE3W0Yc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
-### 2016 Lehigh Undergrad Enrollment
+### 2016 Lehigh Undergrad Enrollment (In Class Assignment)
 This bar graph represents the distribution of Lehigh students based on college in 2016.
 ![text](https://github.com/erinhom/erinhom.github.io/blob/master/bar.png?raw=true)
