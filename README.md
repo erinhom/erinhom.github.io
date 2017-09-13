@@ -14,3 +14,7 @@ Princeton Review announced its Top Party School Ranking for the 2017-2018 school
 ### 2016 Lehigh Undergrad Enrollment (In Class Exercise)
 This bar graph represents the distribution of Lehigh students based on college in 2016. The majority of students are enrolled in Arts & Sciences, Engineering and Business. 
 ![text](https://github.com/erinhom/erinhom.github.io/blob/master/bar.png?raw=true)
+
+### 2007 - 2016 Lehigh College Distribution (In Class Exercise)
+This line graph represents the trends of the three most popular colleges in terms of undergraduate enrollment at Lehigh University. With Business & Economics constantly falling behind Arts & Sciences and Engineering & Applied Sciences, all three consist of the majority of the Lehigh undergraduate students.
+![text](https://github.com/erinhom/erinhom.github.io/blob/master/line.png?raw=true)
