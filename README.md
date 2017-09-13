@@ -20,5 +20,5 @@ This line graph represents the trends of the three most popular colleges in term
 ![text](https://github.com/erinhom/erinhom.github.io/blob/master/line.png?raw=true)
 
 ### Stephen Curry's 3 Point Shot Trend
-Stephen Curry is known for being one of the greatest 3-point shooters in the NBA. This graph shows his success rates of his 3-point shots, starting from his rookie year in 2009 to today after winning two championships and two MVP awards. There is a huge decrease in 3-points attempted because Curry had an ankle injury that left him to appear in only 26 games that season. 
+Stephen Curry is known for being one of the greatest 3-point shooters in the NBA. This graph shows his success rates of his 3-point shots, starting from his rookie year in 2009 to today after winning two championships and two MVP awards. There is a huge decrease in 2011 in 3-points attempted because Curry had an ankle injury that left him to appear in only 26 games that season. 
 ![text](https://github.com/erinhom/erinhom.github.io/blob/master/3point.png?raw=true) 
