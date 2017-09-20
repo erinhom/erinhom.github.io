@@ -23,5 +23,8 @@ This line graph represents the trends of the three most popular colleges in term
 Stephen Curry is known for being one of the greatest 3-point shooters in the NBA. This graph shows his success rates of his 3-point shots, starting from his rookie year in 2009 to today after winning two championships and two MVP awards. There is a huge decrease in 2011 in 3-points attempted because Curry had an ankle injury that left him to appear in only 26 games that season. 
 ![text](https://github.com/erinhom/erinhom.github.io/blob/master/3point.png?raw=true) 
 
-### Map of Arts Centers in Bethlehem
+### Map of Arts Centers in Bethlehem, PA
 <iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1fgFBq2wIEuWvPVXjRlra6Tiu3BUC-3lG3lUC-p_l&amp;viz=MAP&amp;h=false&amp;lat=40.611267024960654&amp;lng=-75.3708332679688&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+### Map of Ice Cream Stores in Bethlehem, PA (Map Assignment)
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+18iCFpNopkSSeao_-qGTUws6pOGdHvKthY8t6HU7g&amp;viz=MAP&amp;h=false&amp;lat=40.62772328914318&amp;lng=-75.36961413629149&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=GEOCODABLE"></iframe>
