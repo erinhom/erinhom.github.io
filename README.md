@@ -24,4 +24,4 @@ Stephen Curry is known for being one of the greatest 3-point shooters in the NBA
 ![text](https://github.com/erinhom/erinhom.github.io/blob/master/3point.png?raw=true) 
 
 ### Map of Arts Centers in Bethlehem
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1fgFBq2wIEuWvPVXjRlra6Tiu3BUC-3lG3lUC-p_l&amp;viz=MAP&amp;h=false&amp;lat=40.611267024960654&amp;lng=-75.3708332679688&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1fgFBq2wIEuWvPVXjRlra6Tiu3BUC-3lG3lUC-p_l&amp;viz=MAP&amp;h=false&amp;lat=40.611267024960654&amp;lng=-75.3708332679688&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
