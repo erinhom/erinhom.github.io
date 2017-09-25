@@ -23,7 +23,7 @@ This line graph represents the trends of the three most popular colleges in term
 Stephen Curry is known for being one of the greatest 3-point shooters in the NBA. This graph shows his success rates of his 3-point shots, starting from his rookie year in 2009 to today after winning two championships and two MVP awards. There is a huge decrease in 2011 in 3-points attempted because Curry had an ankle injury that left him to appear in only 26 games that season. 
 ![text](https://github.com/erinhom/erinhom.github.io/blob/master/3point.png?raw=true) 
 
-### Map of Arts Centers in Bethlehem, PA (In Class Assignment)
+### Map of Arts Centers in Bethlehem, PA (In Class Exercise)
 <iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1fgFBq2wIEuWvPVXjRlra6Tiu3BUC-3lG3lUC-p_l&amp;viz=MAP&amp;h=false&amp;lat=40.611267024960654&amp;lng=-75.3708332679688&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 ### Map of Ice Cream Stores in Bethlehem, PA (Map Assignment)
@@ -31,6 +31,6 @@ Stephen Curry is known for being one of the greatest 3-point shooters in the NBA
 This is the map of the local and popular ice cream stores in Bethlehem, PA. One of them is right here on Lehigh's campus.
 
 
-### Baby Name Trends in the US, 1910 - 2012
+### Baby Name Trends in the US, 1910 - 2012 (In Class Exercise)
 <div class='tableauPlaceholder' id='viz1506355232272' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;4J&#47;4JRZBZQXB&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='2' /> <param name='path' value='shared&#47;4JRZBZQXB' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;4J&#47;4JRZBZQXB&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1506355232272');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 This is an interactive map made on Tableau. It represents data on the US map and the top baby names, female and male, from the years 1910 to 2012. 
