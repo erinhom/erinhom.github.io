@@ -18,8 +18,8 @@ Stephen Curry is known for being one of the greatest 3-point shooters in the NBA
 ![text](https://github.com/erinhom/erinhom.github.io/blob/master/3point.png?raw=true) 
 
 ### Map of Ice Cream Stores in Bethlehem, PA (Map Assignment)
-<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+18iCFpNopkSSeao_-qGTUws6pOGdHvKthY8t6HU7g&amp;viz=MAP&amp;h=false&amp;lat=40.62772328914318&amp;lng=-75.36961413629149&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=GEOCODABLE"></iframe>
-This is the map of the local and popular ice cream stores in Bethlehem, PA. One of them is right here on Lehigh's campus.
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+18iCFpNopkSSeao_-qGTUws6pOGdHvKthY8t6HU7g&amp;viz=MAP&amp;h=false&amp;lat=40.62279065552075&amp;lng=-75.34786678559874&amp;t=1&amp;z=14&amp;l=col0&amp;y=3&amp;tmplt=4&amp;hml=GEOCODABLE"></iframe>
+This is the map of the local and popular ice cream stores in Bethlehem, PA. One of them is right here on Lehigh's campus. These stores are five of the highest rated ice cream places according to Google ratings. 
 
 ### Colleges in the United States based on Location, Admissions and Sector
 <html>
@@ -27,8 +27,8 @@ This is the map of the local and popular ice cream stores in Bethlehem, PA. One 
   </html>
   This interactive map is great for prospective college students searching for the right school for themselves. It allows them to explore schools in certain parts of the country, or schools with populations that fit their preference.
 
-### Race/Minority Related Crimes in New York by County (Tableau Assignment)
+### Race/Minority Related Crimes in New York by County (2010-2015) (Tableau Assignment)
 <html>
   <div class='tableauPlaceholder' id='viz1507400088212' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HT&#47;HTKKX8NF2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='2' /> <param name='path' value='shared&#47;HTKKX8NF2' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HT&#47;HTKKX8NF2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1507400088212');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1000px';vizElement.style.height='860px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
   </html>
-  This interactive map shows crimes in New York based on minority. Anti-black, Asian, Hispanic and Arab crimes are represented. Size of the circles are based on how many crimes there have been in each county and the color of the circle represents the kind of crime: property crimes or crimes against persons.
+This interactive map shows crimes in New York based on minority with data ranging between the years of 2010-2015. Anti-black, Asian, Hispanic and Arab crimes are represented. Size of the circles are based on how many crimes there have been in each county and the color of the circle represents the kind of crime: property crimes or crimes against persons.
