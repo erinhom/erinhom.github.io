@@ -4,8 +4,8 @@ My name is Erin Hom, welcome to my page! I'm a junior at Lehigh University study
 ### Welcome Comic! (Comic Assignment)
 ![text](https://github.com/erinhom/erinhom.github.io/blob/master/Screen%20Shot%202017-10-04%20at%2012.18.42%20PM.png?raw=true)
 
-### Princeton Review's Top 10 Party School Ranking (Infographic Assignment)
-Princeton Review announced its Top Party School Ranking for the 2017-2018 school year. Beginning with Tulane University at the top. Our very own Lehigh University was ranked 9.
+### Princeton Review's Top 10 Party School Ranking 2017-2018 (Infographic Assignment)
+Princeton Review announced its Top Party School Ranking for the 2017-2018 school year. Beginning with Tulane University at the top. Our very own Lehigh University was ranked 9. Enrollment size was included to represent what kind of school it is, whether it is a large or small school.
 
 ![text](https://github.com/erinhom/erinhom.github.io/blob/master/princeton.png?raw=true)
 
